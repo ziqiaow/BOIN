@@ -1,4 +1,4 @@
-# Clinical-Trial-Design
+# Clinical Trial Design BOIN
 Cooperation with Jialong Li.
 
 Jialong's page:
