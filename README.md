@@ -1,5 +1,5 @@
 # Clinical-Trial-Design
-Cooperation with Ziqiao Wang.
+Cooperation with Jialong Li.
 
 
 Current Issues:
